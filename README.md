@@ -76,6 +76,17 @@ source gpt2-env/bin/activate  # veya Windows için: gpt2-env\Scripts\activate
 ```bash
 pip install -r models/gpt2/requirements.txt
 ```
+**Requirements**
+
+*  python >= 3.6
+*  setuptools==41.0.1
+*  ftfy==5.6
+*  tqdm==4.32.1
+*  Click==7.0
+*  sentencepiece==0.1.83
+*  tensorflow-gpu==2.3.0
+*  numpy==1.16.4
+
 
 ## Kullanım
 
