@@ -1,6 +1,6 @@
-# GPT-2 TensorFlow 2.0 
+# GPT-2 TensorFlow 2.3
 
-Bu depo, GPT-2 mimarisinin TensorFlow 2.0 kullanılarak sıfırdan uygulanmasını içermektedir. Model, temel bileşenleri olan attention, embedding, feed-forward ve layer normalization katmanları ayrı ayrı oluşturularak modüler biçimde geliştirilmiştir. Projede eğitim, örnek üretimi ve veri işleme pipeline’ı da dahil edilmiştir.
+Bu depo, GPT-2 mimarisinin TensorFlow 2.3 kullanılarak sıfırdan uygulanmasını içermektedir. Model, temel bileşenleri olan attention, embedding, feed-forward ve layer normalization katmanları ayrı ayrı oluşturularak modüler biçimde geliştirilmiştir. Projede eğitim, örnek üretimi ve veri işleme pipeline’ı da dahil edilmiştir.
 
 ---
 
