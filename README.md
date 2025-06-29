@@ -1,6 +1,6 @@
 # GPT-2 TensorFlow 2.3
 
-Bu depo, GPT-2 mimarisinin TensorFlow 2.3 kullanılarak sıfırdan uygulanmasını içermektedir. Model, temel bileşenleri olan attention, embedding, feed-forward ve layer normalization katmanları ayrı ayrı oluşturularak modüler biçimde geliştirilmiştir. Projede eğitim, örnek üretimi ve veri işleme pipeline’ı da dahil edilmiştir.
+Bu repo, GPT-2 mimarisinin TensorFlow 2.3 kullanılarak sıfırdan uygulanmasını içermektedir. Model, temel bileşenleri olan attention, embedding, feed-forward ve layer normalization katmanları ayrı ayrı oluşturularak modüler biçimde geliştirilmiştir. Projede eğitim, örnek üretimi ve veri işleme pipeline’ı da dahil edilmiştir.
 
 ---
 
@@ -39,7 +39,7 @@ readme/ # Belgelendirme klasörü
 
 ## Proje Amacı
 
-Bu projenin amacı, GPT-2 modelinin bileşenlerini anlamak ve bunları TensorFlow 2.0 kullanarak sıfırdan inşa etmektir. Model, metin tamamlama ve üretimi için kullanılabilir hale getirilmiştir. Bu sayede doğal dil işleme alanında transformer tabanlı modellerin yapısı, veri akışı ve eğitim süreçleri derinlemesine öğrenilmektedir.
+Bu projenin amacı, GPT-2 modelinin bileşenlerini anlamak ve bunları TensorFlow 2.3 kullanarak sıfırdan inşa etmektir. Model, metin tamamlama ve üretimi için kullanılabilir hale getirilmiştir. Bu sayede doğal dil işleme alanında transformer tabanlı modellerin yapısı, veri akışı ve eğitim süreçleri derinlemesine öğrenilmektedir.
 
 ---
 
